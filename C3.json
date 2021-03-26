@@ -1,0 +1,16 @@
+{
+	"file": "https://raw.githubusercontent.com/mbjornson-botinst/C3UpSet/main/C3.csv",
+	"name": "FullUp",
+	"header": 0,
+	"separator": ",",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 1, "name": "Gene" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 2, "end": 9 }
+	],
+    "author": "MB",
+    "description": "Upregulated at any time",
+    "source": "All 4 Rounds, cleaned data"
+}
